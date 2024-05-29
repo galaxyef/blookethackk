@@ -1,0 +1,60 @@
+/**
+ * @name Boykisser x Discord
+ * @author FeoreV
+ * @version 2.0.0
+ * @description Blur is the new black
+ * @source https://github.com/FeoreV/Themes/tree/main/Discord/FVUI
+ * @invite baEMQkgswT
+ * @website https://feorev.github.io/
+ * @authorId 489785940546551831
+ * @BDEditor FVUI
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap%27');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Cores/preload.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/assets/SubThemes/CustomBackground_lite.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/ModularDesign.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/Events/Events.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/RadialStatus.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/TopUserPanel.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/TitleIsland.css');
+
+:root {
+  --undefined: 0;
+  --color1: 201,201,201;
+  --color2: 0,0,0;
+  --color3: 201,201,201;
+  --undefined: 0;
+  --ColorOpacity: 0.5;
+  --DisableOpacity: 1;
+  --cursor: url('https://feorev.github.io/Themes/Discord/FVUI/assets/Cursor.cur');
+  --font: Comfortaa;
+  --homeicon: url('https://feorev.github.io/Themes/Discord/FVUI/assets/HomeIcon/Icon.png');
+  --undefined: 0;
+  --FVUI: 0;
+  --customdesc: 0;
+  --image: url('https://i.redd.it/boykisser-wallpaper-light-dark-v0-zxkvtydtskyc1.png?width=1920&format=png&auto=webp&s=178bda87785fd078e1675ab7d0f54e3ac1ff031f');
+  --OpacityBG: 70%;
+  --BlurBG: 0px;
+  --undefined: 0;
+  --undefined: 0;
+  --outline: 3px;
+  --outlineCLR: var(--color03);
+  --outlineBR: 30px;
+  --outlineMG: 27rem;
+  --outlineBS: 32px;
+  --outlineBG: unset;
+  --outlineBLUR: 2px;
+  --undefined: 0;
+  --outline2: 3px;
+  --outlineCLR2: var(--outlineCLR);
+  --outlineBR2: var(--outlineBR)px;
+  --outlineMG2: var(--outlineMG);
+  --outlineBS2: unset;
+  --outlineBG2: unset;
+  --outlineBLUR2: 0px;
+}
+
+/* Any custom CSS below here */
+
+
